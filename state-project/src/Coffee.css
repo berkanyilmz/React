@@ -1,0 +1,10 @@
+.coffeeImg {
+    width: 450px;
+}
+
+.coffeeDiv {
+    margin: 10px;
+    border: 1px solid lightblue;
+    padding: 10px;
+    border-radius: 5px;
+}
