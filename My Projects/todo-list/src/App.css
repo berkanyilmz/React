@@ -1,0 +1,69 @@
+.App {
+    margin: 10px;
+}
+
+.HeaderAdd {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.HeaderAdd form {
+    display: flex;
+    flex-direction: column;
+}
+
+.HeaderAdd button {
+    background-color: lightgreen;
+    font-size: large;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: calc(33.33% - 16px);
+    min-width: 250px;
+    padding: 12px;
+    margin-bottom: 8px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    list-style-type: none;
+}
+
+.card input[type="checkbox"] {
+    margin-left: 10px;
+}
+
+.cardList {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 100%;
+    max-width: 1000px;
+    margin-top: 20px;
+}
+
+.taskList {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(33.33% - 16px);
+    min-width: 250px;
+    padding: 12px;
+    margin-bottom: 8px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
