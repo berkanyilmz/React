@@ -1,0 +1,34 @@
+{
+  "courses" : [
+    {
+      "id" : 1,
+      "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec leo faucibus, ullamcorper dolor ultricies, mollis urna. Quisque quis sem nec ligula semper euismod. Integer venenatis tristique sapien, aliquam dapibus ipsum. Aliquam lacinia arcu at enim lobortis porttitor. Cras at aliquet massa. Integer id tortor magna. Donec vitae metus a tortor ultrices sollicitudin. Nulla velit est, sagittis vitae luctus at, suscipit vel tellus. Sed commodo dapibus auctor.",
+      "title" : "Java",
+      "price" : 30
+    },
+    {
+      "id" : 2,
+      "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec leo faucibus, ullamcorper dolor ultricies, mollis urna. Quisque quis sem nec ligula semper euismod. Integer venenatis tristique sapien, aliquam dapibus ipsum. Aliquam lacinia arcu at enim lobortis porttitor. Cras at aliquet massa. Integer id tortor magna. Donec vitae metus a tortor ultrices sollicitudin. Nulla velit est, sagittis vitae luctus at, suscipit vel tellus. Sed commodo dapibus auctor.",
+      "title" : "C++",
+      "price" : 30
+    },
+    {
+      "id" : 3,
+      "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec leo faucibus, ullamcorper dolor ultricies, mollis urna. Quisque quis sem nec ligula semper euismod. Integer venenatis tristique sapien, aliquam dapibus ipsum. Aliquam lacinia arcu at enim lobortis porttitor. Cras at aliquet massa. Integer id tortor magna. Donec vitae metus a tortor ultrices sollicitudin. Nulla velit est, sagittis vitae luctus at, suscipit vel tellus. Sed commodo dapibus auctor.",
+      "title" : "Python",
+      "price" : 30
+    },
+    {
+      "id" : 4,
+      "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec leo faucibus, ullamcorper dolor ultricies, mollis urna. Quisque quis sem nec ligula semper euismod. Integer venenatis tristique sapien, aliquam dapibus ipsum. Aliquam lacinia arcu at enim lobortis porttitor. Cras at aliquet massa. Integer id tortor magna. Donec vitae metus a tortor ultrices sollicitudin. Nulla velit est, sagittis vitae luctus at, suscipit vel tellus. Sed commodo dapibus auctor.",
+      "title" : "TROIA",
+      "price" : 30
+    },
+    {
+      "id" : 5,
+      "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec leo faucibus, ullamcorper dolor ultricies, mollis urna. Quisque quis sem nec ligula semper euismod. Integer venenatis tristique sapien, aliquam dapibus ipsum. Aliquam lacinia arcu at enim lobortis porttitor. Cras at aliquet massa. Integer id tortor magna. Donec vitae metus a tortor ultrices sollicitudin. Nulla velit est, sagittis vitae luctus at, suscipit vel tellus. Sed commodo dapibus auctor.",
+      "title" : "Yapay Zeka",
+      "price" : 30
+    }
+  ]
+}
