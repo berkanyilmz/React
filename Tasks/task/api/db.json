@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "title": "eğitim",
+      "taskDesc": "react çalış",
+      "id": "bea8"
+    },
+    {
+      "id": "2628",
+      "title": "iş",
+      "taskDesc": "derin öğrenme modeli geliştir"
+    },
+    {
+      "title": "test34525",
+      "taskDesc": "test123",
+      "id": "eddb"
+    },
+    {
+      "title": "beryıl",
+      "taskDesc": "kanmaz",
+      "id": "9f94"
+    }
+  ]
+}
