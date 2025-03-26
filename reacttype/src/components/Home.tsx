@@ -1,12 +1,12 @@
 import React from 'react';
-
-type DataComing = {
-    name: string;
-};
+import {DataComing} from "./propstypes";
 
 function Home(props: DataComing) {
     return (
-        <div>Selam {props.name}</div>
+        <div>
+            Selam {props.name}, Yaşınız : {props.age}
+            {props.isUser ? <p>{'Kullanıcı'}</p> : <p>{'Kullanıcı Degil'}</p>}
+        </div>
     );
 }
 
